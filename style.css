@@ -1,0 +1,10 @@
+body  {
+    background-image: url("../public/images/66982lms.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+  table {
+     position: relative;
+     left: 300px;
+     top: 100px;
+  }
